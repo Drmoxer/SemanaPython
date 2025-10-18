@@ -59,14 +59,21 @@ O objetivo é **fortalecer a lógica de programação**, aprimorar o raciocínio
 
 ---
 
-### ⚙️ Tecnologias Utilizadas
+### 📓 Trabalhando com Google Colab
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Grande parte dos meus experimentos e estudos de Python também é feita no **Google Colab**,  
+onde posso testar código rapidamente, analisar dados e compartilhar notebooks de forma acessível.
+
+#### 🔗 Meus notebooks no Colab
+[![Open in Colab](https://img.shields.io/badge/Open%20in%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
+
+> 💡 Dica: Em breve adicionarei notebooks interativos com exercícios, exemplos de análise de dados e scripts de automação!
 
 ---
+
+### 🧰 Ferramentas e Ambientes de Estudo
+![Python](https://img.shields.io/badge/P)
+
 
 ### 🎯 Objetivos deste Portfólio
 
