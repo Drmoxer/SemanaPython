@@ -61,7 +61,7 @@ O objetivo é **fortalecer a lógica de programação**, aprimorar o raciocínio
 
 ### 📓 Trabalhando com Google Colab
 
-Grande parte dos meus experimentos e estudos de Python também é feita no **Google Colab**,  
+Grande parte dos meus experimentos e estudos de Python é feita no **Google Colab**,  
 onde posso testar código rapidamente, analisar dados e compartilhar notebooks de forma acessível.
 
 #### 🔗 Meus notebooks no Colab
