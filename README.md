@@ -91,7 +91,7 @@ onde posso testar código rapidamente, analisar dados e compartilhar notebooks d
 ### 📫 Contato
 
 💬 Vamos conversar sobre tecnologia, educação e inovação!  
-📧 **seuemail@email.com**  
+📧 **drmoxer@gmail.com**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moisés%20Feitoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisésfeitoza)
 
 ---
