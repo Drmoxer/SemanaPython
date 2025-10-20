@@ -23,11 +23,13 @@ O objetivo é **fortalecer a lógica de programação**, aprimorar o raciocínio
 | `03_conditions/` | Decisões e controle de fluxo | If/Else, operadores lógicos, comparações |
 | `04_datatype_operators_typecasting/` | Tipo de dados | Manipular dados de forma numérica e lógica,casting type e arredondamento de valores|
 | `05_arrays_lists/` | Listas e coleção de dados | Trabalhar com conjuntos de dados.|
-| `06_recursion/` | Pensamento recursivo | Funções que chamam a si mesmas, resolução de problemas |
-| `07_strings/` | Manipulação e limpeza de texto | Strings, formatação, análise textual |
-| `08_input_output/` | Interação com arquivos | Leitura, escrita, e processamento de dados |
-| `09_bits_binary/` | Representação de dados | Binário, hexadecimal, lógica booleana |
-| `10_data_pipeline_project/` | Projeto integrador | Mini ETL: leitura, limpeza, filtragem e exportação de dados |
+| `06_list_loop/` |Manipulação de coleções e iteração | Listas, loops for/while, filtragem de dados |
+| `07_functions_scope/` | Organização e reuso de código | Funções, parâmetros, retorno, escopo |
+| `08_recursion/` | Pensamento recursivo | Funções que chamam a si mesmas, resolução de problemas |
+| `09_strings/` | Manipulação e limpeza de texto | Strings, formatação, análise textual |
+| `10_input_output/` | Interação com arquivos | Leitura, escrita, e processamento de dados |
+| `11_bits_binary/` | Representação de dados | Binário, hexadecimal, lógica booleana |
+| `12_data_pipeline_project/` | Projeto integrador | Mini ETL: leitura, limpeza, filtragem e exportação de dados |
 
 ---
 
@@ -37,17 +39,17 @@ O objetivo é **fortalecer a lógica de programação**, aprimorar o raciocínio
 > Programa que coleta nome, idade e profissão e exibe um resumo formatado.  
 > Conceitos: entrada/saída, variáveis e tipos de dados.
 
-#### 🟡 **02. Conversão de Moedas**
+#### 🟡 **02. Conversão de moedas**
 > Simula uma constante de conversão de dólar para real.  
 > Conceitos: variáveis, constantes, operadores e cast de tipos.
 
-#### 🔵 **03. Filtro de Idades**
+#### 🔵 **03. Filtro de idades**
 > Analisa uma lista de idades e exibe apenas quem tem entre 18 e 30 anos.  
 > Conceitos: listas, operadores lógicos e condicionais.
 
-#### 🧩 **04. Média de Temperaturas**
-> Calcula média, máximo e mínimo de uma lista de temperaturas.  
-> Conceitos: listas, loops, funções e agregação de dados.
+#### 🧩 **04. Arredondamento de preços**
+> Arredonda os valores de uma lista de preços.  
+> Conceitos: tipos de dados, conversão de tipos e operadores
 
 #### 🧠 **05. Filtragem de Dados**
 > Função que recebe uma lista e uma condição, retornando apenas os dados válidos.  
