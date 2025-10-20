@@ -21,8 +21,8 @@ O objetivo é **fortalecer a lógica de programação**, aprimorar o raciocínio
 | `01_intro_basics/` | Programas simples de introdução | Entrada e saída de dados, prints e cálculos simples |
 | `02_variables_constants/` | Trabalhando com dados e configurações | Variáveis, constantes, tipos de dados |
 | `03_conditions/` | Decisões e controle de fluxo | If/Else, operadores lógicos, comparações |
-| `04_lists_loops/` | Manipulação de coleções e iteração | Listas, loops for/while, filtragem de dados |
-| `05_functions_scope/` | Organização e reuso de código | Funções, parâmetros, retorno, escopo |
+| `04_datatype_operators_typecasting/` | Tipo de dados | Manipular dados de forma numérica e lógica,casting type e arredondamento de valores|
+| `05_arrays_lists/` | Listas e coleção de dados | Trabalhar com conjuntos de dados.|
 | `06_recursion/` | Pensamento recursivo | Funções que chamam a si mesmas, resolução de problemas |
 | `07_strings/` | Manipulação e limpeza de texto | Strings, formatação, análise textual |
 | `08_input_output/` | Interação com arquivos | Leitura, escrita, e processamento de dados |
@@ -59,14 +59,25 @@ O objetivo é **fortalecer a lógica de programação**, aprimorar o raciocínio
 
 ---
 
-### ⚙️ Tecnologias Utilizadas
+### 📓 Trabalhando com Google Colab
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Grande parte dos meus experimentos e estudos de Python é feita no **Google Colab**,  
+onde posso testar código rapidamente, analisar dados e compartilhar notebooks de forma acessível.
+
+#### 🔗 Meus notebooks no Colab
+[![Open in Colab](https://img.shields.io/badge/Open%20in%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
+
+> 💡 Dica: Em breve adicionarei notebooks interativos com exercícios, exemplos de análise de dados e scripts de automação!
 
 ---
+
+
+### 🧰 Ferramentas e Ambientes de Estudo
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
 
 ### 🎯 Objetivos deste Portfólio
 
@@ -80,7 +91,7 @@ O objetivo é **fortalecer a lógica de programação**, aprimorar o raciocínio
 ### 📫 Contato
 
 💬 Vamos conversar sobre tecnologia, educação e inovação!  
-📧 **seuemail@email.com**  
+📧 **drmoxer@gmail.com**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moisés%20Feitoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisésfeitoza)
 
 ---
