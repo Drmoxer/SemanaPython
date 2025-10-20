@@ -8,7 +8,7 @@
 
 ### 📚 Sobre este repositório
 
-Este repositório reúne uma série de **exercícios práticos e projetos progressivos** em **Python**, seguindo os conceitos fundamentais de programação do W3Schools e aplicando-os em **contextos de dados, automação e backend**.
+Este repositório reúne uma série de **exercícios práticos e projetos progressivos** em **Python**, seguindo os conceitos fundamentais de programação do W3Schools: Intro to Programming e aplicando-os em **contextos de dados, automação e backend**.
 
 O objetivo é **fortalecer a lógica de programação**, aprimorar o raciocínio computacional e aplicar o conhecimento em situações reais — um passo essencial no caminho para **Ciência e Engenharia de Dados**.
 
@@ -80,6 +80,8 @@ onde posso testar código rapidamente, analisar dados e compartilhar notebooks d
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
+### Referências
+[![W3Schools](https://img.shields.io/badge/W3Schools-Visit%20Programming-blue?style=flat&logo=internetarchive&logoColor=white)](https://www.w3schools.com/programming/index.php)
 
 ### 🎯 Objetivos deste Portfólio
 
