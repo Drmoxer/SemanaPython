@@ -21,8 +21,8 @@ O objetivo é **fortalecer a lógica de programação**, aprimorar o raciocínio
 | `01_intro_basics/` | Programas simples de introdução | Entrada e saída de dados, prints e cálculos simples |
 | `02_variables_constants/` | Trabalhando com dados e configurações | Variáveis, constantes, tipos de dados |
 | `03_conditions/` | Decisões e controle de fluxo | If/Else, operadores lógicos, comparações |
-| `04_datatype_operators_typecasting/` | Tipo de dados | Manipular dados de forma numérica e lógica | Casting Type e arredondamento de valores|
-| `05_functions_scope/` | Organização e reuso de código | Funções, parâmetros, retorno, escopo |
+| `04_datatype_operators_typecasting/` | Tipo de dados | Manipular dados de forma numérica e lógica,casting type e arredondamento de valores|
+| `05_arrays_lists/` | Listas e coleção de dados | Trabalhar com conjuntos de dados.|
 | `06_recursion/` | Pensamento recursivo | Funções que chamam a si mesmas, resolução de problemas |
 | `07_strings/` | Manipulação e limpeza de texto | Strings, formatação, análise textual |
 | `08_input_output/` | Interação com arquivos | Leitura, escrita, e processamento de dados |
